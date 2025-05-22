@@ -1,1 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contacts on Honey’s Applied Data Science Projects</title><link>https://honeyhsc.github.io/contact/</link><description>Recent content in Contacts on Honey’s Applied Data Science Projects</description><generator>Hugo</generator><language>en-us</language><lastBuildDate/><atom:link href="https://honeyhsc.github.io/contact/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Contacts on Honey’s Applied Data Science Projects</title><link>https://honeyhsc.github.io/contact/</link><description>Recent content in Contacts on Honey’s Applied Data Science Projects</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 13 May 2025 21:07:19 +0100</lastBuildDate><atom:link href="https://honeyhsc.github.io/contact/index.xml" rel="self" type="application/rss+xml"/><item><title>Contact</title><link>https://honeyhsc.github.io/contact/contact/</link><pubDate>Tue, 13 May 2025 21:07:19 +0100</pubDate><guid>https://honeyhsc.github.io/contact/contact/</guid><description>&lt;form class="black-80 sans-serif" accept-charset="UTF-8" action="https://formspree.io/f/mzzrkgnv" method="POST" role="form">
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="name">Your Name&lt;/label>
+ &lt;input type="text" id="name" name="name" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="name"/>
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="email">Email Address&lt;/label>
+ &lt;input type="email" id="email" name="email" class="w-100 f5 pv3 ph3 bg-light-gray bn" required placeholder=" " aria-labelledby="email"/>
+ &lt;div class="requirements f6 gray glow i ph3 overflow-hidden">
+ An email address is required.
+ &lt;/div>
+
+ &lt;label class="f6 b db mb1 mt3 sans-serif mid-gray" for="message">Message&lt;/label>
+ &lt;textarea id="message" name="message" class="w-100 f5 pv3 ph3 bg-light-gray bn h4" aria-labelledby="message">&lt;/textarea>
+
+ &lt;input class="db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black" type="submit" value="Send" />
+
+&lt;/form></description></item></channel></rss>
